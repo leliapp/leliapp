@@ -1,0 +1,4 @@
+venv
+access.log
+.idea
+deploy.log
